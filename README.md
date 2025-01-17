@@ -1,5 +1,5 @@
 <body>
-  <h1 align="center">Hi, I'm Javeriyah/geek-witch</h1>
+  <h1 align="center">Hi, I'm Javeriyah/the geek-witch</h1>
   <!-- Subtitle -->
   <h4 align="center">coder girl [koh-der gǝ:|]</h4>
   <p align="center"><i>noun: A girl with magical powers who can hack your day. <br>Synonyms: sorceress, witch, fairy</i></p>
