@@ -3,7 +3,7 @@
   <!-- Subtitle -->
   <h4 align="center">coder girl [koh-der gǝ:|]</h4>
   <p align="center"><i>noun: A girl with magical powers who can hack your day. <br>Synonyms: sorceress, witch, fairy</i></p>
-  <h3 align="center">I’m a computer science student with a passion for learning and creating.</h3>
+  <h3 align="center">I’m a Computer Science student with a passion for learning and creating.</h3>
 
   
 
