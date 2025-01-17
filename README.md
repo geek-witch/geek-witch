@@ -10,11 +10,11 @@
   <div style="display: flex; align-items: center;">
     <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
     <ul>
-      <li>🌱 I’m currently learning <strong>Web Development, AI, and Advanced Programming Concepts</strong></li>
-      <li>👯 I’m looking to collaborate on <strong>Web development projects and Any Innovative Programming Project</strong></li>
-      <li>📚 Apart from my courses, I enjoy <strong>reading books, exploring art, and writing poems and stories.</strong></li>
-      <li>📫 How to reach me: <a href="mailto:javeriya.rmalik@gmail.com">javeriya.rmalik@gmail.com</a></li>
-      <li>⚡ Fun fact: <strong>I am a writer and hold great passion for Literature and Art</strong></li>
+      <li> I’m currently learning <strong>Web Development, AI, and Advanced Programming Concepts</strong></li>
+      <li> I’m looking to collaborate on <strong>Web development projects and Any Innovative Programming Project</strong></li>
+      <li> Apart from my courses, I enjoy <strong>reading books, exploring art, and writing poems and stories.</strong></li>
+      <li> How to reach me: <a href="mailto:javeriya.rmalik@gmail.com">javeriya.rmalik@gmail.com</a></li>
+      <li> Fun fact: <strong>I am a writer and hold great passion for Literature and Art</strong></li>
     </ul>
   </div>
 
