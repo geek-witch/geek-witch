@@ -8,7 +8,7 @@
   
 
   <div style="display: flex; align-items: center;">
-    <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
+    <img align="right" alt="Coding" width="320" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
     <ul>
       <li> I’m currently learning <strong>Web Development, AI, and Advanced Programming Concepts</strong></li>
       <li> I’m looking to collaborate on <strong>Web development projects and Any Innovative Programming Project</strong></li>
