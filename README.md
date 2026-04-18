@@ -49,8 +49,6 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/></td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.simpleicons.org/diagramsdotnet" width="40"/></td>
   </tr>
 </table>
