@@ -32,10 +32,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-<h3 align="left">Languages and Tools:</h3>
-
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
