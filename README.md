@@ -32,7 +32,7 @@ src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ek
 
 <li> I'm looking to collaborate on <strong>MERN, AI/ML, Generative AI, Computer Vision, and Open Source projects.</strong></li>
 
-<li> Currently exploring <strong>Vision-Language Models (VLMs), LLMs, Fine-Tuning, Diffusion Models, and AI-powered web applications.</strong></li>
+<li> Currently exploring <strong>Vision-Language Models (VLMs), LLMs, Agentic AI, Fine-Tuning, Diffusion Models, and AI-powered web applications.</strong></li>
 
 <li> How to reach me:
 <a href="mailto:javeriya.rmalik@gmail.com">javeriya.rmalik@gmail.com</a>
@@ -71,9 +71,9 @@ width="30"/>
 <h3 align="left">Highlights</h3>
 
 <ul>
-<li><strong>Hunar Bazaar</strong> — a live peer-to-peer skill exchange marketplace with blockchain-backed credit transactions, JWT auth, stripe , Firebase real-time chat, and live video sessions; deployed on Vercel/Render with MongoDB Atlas.</li>
+<li><strong>Hunar Bazaar</strong> — a live peer-to-peer skill exchange marketplace with blockchain-backed credit transactions, JWT auth, Firebase real-time chat, and live video sessions; deployed on Vercel/Render with MongoDB Atlas.</li>
 <li><strong>Vision-Language Model Fine-Tuning</strong> — fine-tuned Qwen2-VL-2B-Instruct with 4-bit QLoRA, reaching 0.60 ROUGE-1 F1, and shipped it as a live Streamlit inference app.</li>
-<li><strong>Diffusion Model from Scratch</strong> — fine tuned a 12.3M-parameter U-Net DDPM trained on CelebA-HQ, achieving 21.68 dB PSNR for face generation.</li>
+<li><strong>Diffusion Model from Scratch</strong> — built a 12.3M-parameter U-Net DDPM trained on CelebA-HQ, achieving 21.68 dB PSNR for face generation.</li>
 </ul>
 
 <hr>
@@ -135,6 +135,20 @@ width="30"/>
 
 </tr>
 
+<tr>
+
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></td>
+
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/></td>
+
+<td><img src="https://cdn.simpleicons.org/cisco/00000" width="40"/></td>
+
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></td>
+
+<td><img src="https://cdn.simpleicons.org/canva/00000" width="40"/></td>
+
+</tr>
+
 </table>
 
 <hr>
@@ -145,6 +159,7 @@ width="30"/>
 <strong>MERN Stack</strong> •
 <strong>AI/ML</strong> •
 <strong>Generative AI</strong> •
+<strong>Agentic AI</strong> •
 <strong>Computer Vision</strong> •
 <strong>Vision-Language Models</strong> •
 <strong>PyTorch</strong> •
