@@ -25,6 +25,7 @@ align="right"
 alt="Coding"
 width="320"
 src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
+<br>
 
 <ul>
 <li> I’m currently building <strong>Full-Stack MERN applications with AI/ML integration, cloud deployment, and scalable backend systems.</strong></li>
@@ -37,7 +38,7 @@ src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ek
 <a href="mailto:javeriya.rmalik@gmail.com">javeriya.rmalik@gmail.com</a>
 </li>
 
-<li>✨ Fun fact: <strong>I love blending technology with creativity—I write stories and poetry when I'm not coding.</strong></li>
+<li>✨ Fun fact: <strong>I love blending technology with creativity — I write stories and poetry when I'm not coding.</strong></li>
 
 </ul>
 
