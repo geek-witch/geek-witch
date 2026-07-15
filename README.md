@@ -145,7 +145,6 @@ width="30"/>
 
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></td>
 
-<td><img src="https://cdn.simpleicons.org/canva/00000" width="40"/></td>
 
 </tr>
 
