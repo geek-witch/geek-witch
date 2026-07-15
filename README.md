@@ -28,9 +28,9 @@ src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ek
 <br>
 
 <ul>
-<li> I’m currently building <strong>Full-Stack MERN applications with AI/ML integration, cloud deployment, and scalable backend systems.</strong></li>
+<li> I'm currently building <strong>Full-Stack MERN applications with AI/ML integration, cloud deployment, and scalable backend systems.</strong></li>
 
-<li> I’m looking to collaborate on <strong>MERN, AI/ML, Generative AI, Computer Vision, and Open Source projects.</strong></li>
+<li> I'm looking to collaborate on <strong>MERN, AI/ML, Generative AI, Computer Vision, and Open Source projects.</strong></li>
 
 <li> Currently exploring <strong>Vision-Language Models (VLMs), LLMs, Fine-Tuning, Diffusion Models, and AI-powered web applications.</strong></li>
 
@@ -38,7 +38,7 @@ src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ek
 <a href="mailto:javeriya.rmalik@gmail.com">javeriya.rmalik@gmail.com</a>
 </li>
 
-<li>✨ Fun fact: <strong>I love blending technology with creativity — I write stories and poetry when I'm not coding.</strong></li>
+<li>Fun fact: <strong>I love blending technology with creativity — I write stories and poetry when I'm not coding.</strong></li>
 
 </ul>
 
@@ -65,6 +65,16 @@ width="30"/>
 </a>
 
 </p>
+
+<hr>
+
+<h3 align="left">Highlights</h3>
+
+<ul>
+<li><strong>Hunar Bazaar</strong> — a live peer-to-peer skill exchange marketplace with blockchain-backed credit transactions, JWT auth, Firebase real-time chat, and live video sessions; deployed on Vercel/Render with MongoDB Atlas.</li>
+<li><strong>Vision-Language Model Fine-Tuning</strong> — fine-tuned Qwen2-VL-2B-Instruct with 4-bit QLoRA, reaching 0.60 ROUGE-1 F1, and shipped it as a live Streamlit inference app.</li>
+<li><strong>Diffusion Model from Scratch</strong> — built a 12.3M-parameter U-Net DDPM trained on CelebA-HQ, achieving 21.68 dB PSNR for face generation.</li>
+</ul>
 
 <hr>
 
@@ -144,22 +154,6 @@ width="30"/>
 <strong>Vercel</strong> •
 <strong>Render</strong> •
 <strong>Docker</strong>
-</p>
-
-<hr>
-
-<h3 align="left">GitHub Stats</h3>
-
-<p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api?username=geek-witch&show_icons=true&theme=tokyonight"
-alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-witch&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-alt="Top Languages"/>
 </p>
 
 </body>
