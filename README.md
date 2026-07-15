@@ -71,9 +71,9 @@ width="30"/>
 <h3 align="left">Highlights</h3>
 
 <ul>
-<li><strong>Hunar Bazaar</strong> — a live peer-to-peer skill exchange marketplace with blockchain-backed credit transactions, JWT auth, Firebase real-time chat, and live video sessions; deployed on Vercel/Render with MongoDB Atlas.</li>
+<li><strong>Hunar Bazaar</strong> — a live peer-to-peer skill exchange marketplace with blockchain-backed credit transactions, JWT auth, stripe , Firebase real-time chat, and live video sessions; deployed on Vercel/Render with MongoDB Atlas.</li>
 <li><strong>Vision-Language Model Fine-Tuning</strong> — fine-tuned Qwen2-VL-2B-Instruct with 4-bit QLoRA, reaching 0.60 ROUGE-1 F1, and shipped it as a live Streamlit inference app.</li>
-<li><strong>Diffusion Model from Scratch</strong> — built a 12.3M-parameter U-Net DDPM trained on CelebA-HQ, achieving 21.68 dB PSNR for face generation.</li>
+<li><strong>Diffusion Model from Scratch</strong> — fine tuned a 12.3M-parameter U-Net DDPM trained on CelebA-HQ, achieving 21.68 dB PSNR for face generation.</li>
 </ul>
 
 <hr>
